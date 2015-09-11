@@ -1,0 +1,21 @@
+{
+  "name": "templates-purified",
+  "version": "0.9.0",
+  "description": "secure templating in javascript",
+  "main": "index.js",
+  "homepage": "https://github.com/mozfreddyb/templates-purified",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "dompurify",
+    "security",
+    "templates",
+    "templating"
+  ],
+  "dependencies": {
+    "dompurify": "0.6.5",
+  },
+  "author": "Frederik Braun",
+  "license": "MPL-2.0"
+}
